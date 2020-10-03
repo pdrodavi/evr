@@ -1,11 +1,3 @@
-/*
-  Theme Name: Reveal
-  Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1122,6 +1114,9 @@ body.mobile-nav-active #mobile-nav-toggle {
     #about .about-img img {
         margin-left: 0;
         padding-bottom: 30px;
+    }
+    #intro #intro-content img {
+        width: 100%;
     }
 }
 
